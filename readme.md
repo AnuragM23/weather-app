@@ -28,7 +28,7 @@ To run the Akash-Vani app on your local system, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/AnuragM23/akash-vani.git
+   git clone https://github.com/AnuragM23/weather-app.git
    ```
 
 2. **Navigate to the Project Directory**:
