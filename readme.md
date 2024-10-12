@@ -1,5 +1,5 @@
 
-# [Akash-Vani](https://anuragm23.github.io/akash-vani/)
+# [Akash-Vani](https://weather-app-coral-theta-95.vercel.app/)
 
 ![cover-picture](assets/coverPicture.png) 
 
